@@ -1,0 +1,33 @@
+# Core Computer Vision & Processing
+opencv-python
+opencv-contrib-python
+numpy
+mediapipe
+ultralytics
+torch
+torchvision
+pillow
+
+# Interface & Graphics
+tkinter-tooltip
+matplotlib
+scipy
+
+# Backend & API (v2)
+Flask==2.2.5
+flask
+flask-cors
+flask-socketio
+flask-sqlalchemy
+flask-jwt-extended
+flask-migrate
+waitress
+eventlet
+python-dotenv
+
+# Hardware & Configuration
+pyserial
+configparser
+
+# Gaze-Aware Brightness System
+screen-brightness-control
