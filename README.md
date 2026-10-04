@@ -227,8 +227,8 @@ For issues or questions:
 
 This project was developed collaboratively as a final-year academic project by a team of two.
 
-- **Priya Singh** — Team Member
-- **Jaypal Chaudhary** — Team Member
+- **Priya Singh**
+- **Jaypal Chaudhary** 
 
 ---
 
